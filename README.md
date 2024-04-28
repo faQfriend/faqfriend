@@ -1,9 +1,9 @@
-Rustam Ivazov
-============================== 
+Рустам Ивазов
+=
 Python разработчик
 ------------------
 * 🌍  Moscow
-* * ✉️  You can contact me at [rivazov@gmail.com](mailto:rivazov@gmail.com)
+* ✉️  You can contact me at [rivazov@gmail.com](mailto:rivazov@gmail.com)
 
 ### Skills  
 
