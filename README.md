@@ -1,7 +1,7 @@
-# Рустам Ивазов 
-## Python разработчик
+## Рустам Ивазов 
+### Python разработчик
 
-## Контакты 
+### Контакты 
 <p> 
     <a href="https://yandex.ru/maps/-/CDu7aIlx">
         <img alt="Maps" src="https://img.shields.io/badge/Москва-2c2c2c?style=for-the-badge&logo=googlemaps&logoColor=red&labelColor=">
@@ -9,7 +9,7 @@
 </p>
  <p>
     <a href="https://hh.ru/applicant/resumes/view?resume=4eb35423ff0d1277e40039ed1f505159634833">
-        <img alt="Static Badge" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-2c2c2c?style=for-the-badge&logo=HH&logoColor=d4011d&label=HH&labelColor=red">
+        <img alt="HH" src="https://img.shields.io/badge/Резюме-2c2c2c?style=for-the-badge&logo=HH&logoColor=black&label=HH&labelColor=red">
     </a>
 </p>
 <p>
@@ -23,7 +23,7 @@
     </a>
 </p>
 
-## Стек
+### Стек
 ![Python](https://img.shields.io/badge/python-1f415f?style=for-the-badge&logo=python&logoColor=ffe76f&labelColor=2c2c2c) 
 ![Django](https://img.shields.io/badge/Django-0c4b32?style=for-the-badge&logo=django&logoColor=0a7f57&labelColor=2c2c2c)
 ![DRF](https://img.shields.io/badge/REST_FRAMEWORK-2c2c2c?style=for-the-badge&logo=django&logoColor=b53e41&labelColor=2c2c2c&color=802d2d) 
