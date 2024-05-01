@@ -1,9 +1,9 @@
 # Рустам Ивазов 
-### Python разработчик 
+## Python разработчик 
 
 ---
 
-### Контакты 
+## Контакты 
 <p> 
     <a href="https://yandex.ru/maps/-/CDu7aIlx">
         <img alt="Maps" src="https://img.shields.io/badge/Москва-2c2c2c?style=for-the-badge&logo=googlemaps&logoColor=red&labelColor=">
