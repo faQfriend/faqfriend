@@ -4,20 +4,21 @@
 Город: Москва \
 Резюме: [HeadHunter](https://hh.ru/applicant/resumes/view?resume=4eb35423ff0d1277e40039ed1f505159634833) \
 Почта: [rivazov@gmail.com](mailto:rivazov@gmail.com) \
-Телеграм: @rivazov
+<img alt="Static Badge" src="https://img.shields.io/badge/%40rivazov-2c2c2c?style=social&logo=telegram&logoColor=2c2c2c&labelColor=2c2c2c&link=https%3A%2F%2Ft.me%2Frivazov">
+
 
 ---
 
 ### Стек
-
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-1f415f?style=for-the-badge&logo=python&logoColor=ffe76f&labelColor=2c2c2c) 
+![Django](https://img.shields.io/badge/Django-0c4b32?style=for-the-badge&logo=django&logoColor=0a7f57&labelColor=2c2c2c)
+![DRF](https://img.shields.io/badge/REST_FRAMEWORK-2c2c2c?style=for-the-badge&logo=django&logoColor=b53e41&labelColor=2c2c2c&color=802d2d) 
+![SQLite](https://img.shields.io/badge/SQLite-0582cc?style=for-the-badge&logo=sqlite&logoColor=1596d4&labelColor=2c2c2c&color=054a64)
+![Postgres](https://img.shields.io/badge/postgreSQL-2c2c2c?style=for-the-badge&logo=postgresql&logoColor=669ac6&labelColor=2c2c2c&color=336791) 
+![Docker](https://img.shields.io/badge/Docker-1c63ed?style=for-the-badge&logo=docker&logoColor=008dff&labelColor=2c2c2c)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
