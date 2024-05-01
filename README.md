@@ -1,7 +1,5 @@
 # Рустам Ивазов 
-## Python разработчик 
-
----
+## Python разработчик
 
 ## Контакты 
 <p> 
@@ -24,8 +22,6 @@
         <img alt="Gmail" src="https://img.shields.io/badge/rivazov@gmail.com-2c2c2c?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white">
     </a>
 </p>
-
----
 
 ### Стек
 ![Python](https://img.shields.io/badge/python-1f415f?style=for-the-badge&logo=python&logoColor=ffe76f&labelColor=2c2c2c) 
