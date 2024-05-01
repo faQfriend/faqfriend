@@ -23,7 +23,7 @@
     </a>
 </p>
 
-### Стек
+## Стек
 ![Python](https://img.shields.io/badge/python-1f415f?style=for-the-badge&logo=python&logoColor=ffe76f&labelColor=2c2c2c) 
 ![Django](https://img.shields.io/badge/Django-0c4b32?style=for-the-badge&logo=django&logoColor=0a7f57&labelColor=2c2c2c)
 ![DRF](https://img.shields.io/badge/REST_FRAMEWORK-2c2c2c?style=for-the-badge&logo=django&logoColor=b53e41&labelColor=2c2c2c&color=802d2d) 
