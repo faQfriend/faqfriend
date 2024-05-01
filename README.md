@@ -2,13 +2,6 @@
 ### Python разработчик 
 
 ---
-
-Город: Москва \
-Резюме: [HeadHunter](https://hh.ru/applicant/resumes/view?resume=4eb35423ff0d1277e40039ed1f505159634833) \
-Почта: [rivazov@gmail.com](mailto:rivazov@gmail.com) \
-Телеграм: [@rivazov](https://t.me/rivazov)
-
----
 ### Контакты 
 <a href="https://yandex.ru/maps/-/CDu7aIlx">
     <img alt="Maps" src="https://img.shields.io/badge/Москва-2c2c2c?style=for-the-badge&logo=googlemaps&logoColor=red&labelColor=2c2c2c">
