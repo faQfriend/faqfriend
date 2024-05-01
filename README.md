@@ -4,18 +4,7 @@
 Город: Москва \
 Резюме: [HeadHunter](https://hh.ru/applicant/resumes/view?resume=4eb35423ff0d1277e40039ed1f505159634833) \
 Почта: [rivazov@gmail.com](mailto:rivazov@gmail.com) \
-
-<p>
-    <a href="https://hh.ru/resume/4eb35423ff0d1277e40039ed1f505159634833">
-        <img alt="HH" src="https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5-%20red?style=social&logo=HH&logoColor=red&label=HH">
-    </a>
-</p>
-<p>
-    <a href="https://t.me/rivazov">
-        <img alt="Telegram" src="https://img.shields.io/badge/%40rivazov-2c2c2c?style=social&logo=telegram&logoColor=2c2c2c&labelColor=2c2c2c">
-    </a>
-</p>
-
+Телеграм: [@rivazov](https://t.me/rivazov)
 
 ---
 
