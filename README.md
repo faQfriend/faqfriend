@@ -1,5 +1,7 @@
 # Рустам Ивазов 
 ## Python разработчик
+
+<!--
 Кратко о проектах:
 * [you_can_bot](https://github.com/Studio-Yandex-Practicum/you_can_bot) - благотворительном проекте по созданию 
 telegram-бота (python-telegram-bot) для профориентации подростков, который позволяет им быстрее понять свои 
@@ -10,7 +12,7 @@ telegram-бота (python-telegram-bot) для профориентации по
 технологий и расширение возможностей, используемых в проектах далее.
 * [text_blog](https://github.com/faQfriend/text_blog) - сервис для публикации текстовых постов.
 * [image_place](https://github.com/faQfriend/image_place) - сервис для публикации изображений.
-
+-->
 
 ## Контакты 
 <p> 
@@ -18,22 +20,27 @@ telegram-бота (python-telegram-bot) для профориентации по
         <img alt="Maps" src="https://img.shields.io/badge/Москва-2c2c2c?style=for-the-badge&logo=googlemaps&logoColor=red&labelColor=">
     </a>
 </p>
+
+<!--
  <p>
     <a href="https://hh.ru/applicant/resumes/view?resume=4eb35423ff0d1277e40039ed1f505159634833">
         <img alt="HH" src="https://img.shields.io/badge/Резюме-2c2c2c?style=for-the-badge&logo=HH&logoColor=black&label=HH&labelColor=red">
     </a>
 </p>
-<p>
-    <a href="https://t.me/rivazov">
-        <img alt="Telegram" src="https://img.shields.io/badge/@rivazov-2c2c2c?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black">
-    </a>
-</p>
+
 <p>
     <a href="mailto:rivazov@gmail.com">
         <img alt="Gmail" src="https://img.shields.io/badge/rivazov@gmail.com-2c2c2c?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white">
     </a>
 </p>
+-->
+<p>
+    <a href="https://t.me/rivazov">
+        <img alt="Telegram" src="https://img.shields.io/badge/@rivazov-2c2c2c?style=for-the-badge&logo=telegram&logoColor=white&labelColor=black">
+    </a>
+</p>
 
+<!--
 ## Стек
 ![Python](https://img.shields.io/badge/python-1f415f?style=for-the-badge&logo=python&logoColor=ffe76f&labelColor=2c2c2c) 
 ![Django](https://img.shields.io/badge/Django-0c4b32?style=for-the-badge&logo=django&logoColor=0a7f57&labelColor=2c2c2c)
@@ -45,3 +52,4 @@ telegram-бота (python-telegram-bot) для профориентации по
 ![Docker](https://img.shields.io/badge/Docker-1c63ed?style=for-the-badge&logo=docker&logoColor=008dff&labelColor=2c2c2c) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=FF6C37&labelColor=2c2c2c)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=00cdff&labelColor=2c2c2c)
+-->
